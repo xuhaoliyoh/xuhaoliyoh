@@ -25,13 +25,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-334155?style=flat-square&logo=markdown&logoColor=white)
 
-### 🚀 Projects & Notes
+### 🚀 主要项目
 
 | 项目 | 内容 |
 | :--- | :--- |
+| ⚡ **[XAPI](https://github.com/xuhaoliyoh/x-api)** | API 项目与开发实践 |
+| 🤖 **Agent tool** 🔒 | 私有项目，代码暂未公开 |
 | 📝 **[note](https://github.com/xuhaoliyoh/note)** | 持续整理的学习笔记与知识记录 |
-| 🎬 **[lucky-journey](https://github.com/xuhaoliyoh/lucky-journey)** | Web 短视频平台，包含兴趣推荐、关注推送与内容审核 |
-| 🔌 **[agent-mcp-community](https://github.com/xuhaoliyoh/agent-mcp-community)** | MCP 相关工具与社区资源探索 |
 
 ---
 
